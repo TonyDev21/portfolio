@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Marina Soto | Portfolio",
-  description: "Portfolio de Marina Soto, diseñadora y desarrolladora digital.",
+  title: "Alex Rivera | Desarrollador Full-Stack",
+  description: "Portfolio de Alex Rivera, desarrollador full-stack especializado en React y TypeScript.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
